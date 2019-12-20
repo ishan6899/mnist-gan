@@ -7,7 +7,7 @@ This repo consists of implementation of Generative Adversarial Networks on the m
 MNIST Dataset
 
 ## Usage
-Download the jupyter notebook and run it 
+Download the mnist-gan jupyter notebook and run all the cells.For inormation of batch normalisation download batch_normalisation jupyter notebook and run all the cells
 
 ## License
 This is covered under MIT License 
